@@ -1,0 +1,6 @@
+﻿  326542.cpp
+E:\Downloads\visual проекты\326542\326542\326542.cpp(24,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Downloads\visual проекты\326542\326542\326542.cpp(34,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\Downloads\visual проекты\326542\326542\326542.cpp(7,17): warning C4101: end: неиспользованная локальная переменная
+E:\Downloads\visual проекты\326542\326542\326542.cpp(7,10): warning C4101: start: неиспользованная локальная переменная
+  326542.vcxproj -> E:\Downloads\visual проекты\326542\Debug\326542.exe
